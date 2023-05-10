@@ -4,7 +4,7 @@ import questao_03.model.Processo;
 
 public class Main {
     public static void main(String[] args) {
-        //Padrão State
+        //Padrão de projeto State
         Processo processo = new Processo();
         processo.avalia();
 
