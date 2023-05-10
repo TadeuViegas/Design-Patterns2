@@ -20,5 +20,12 @@ public class TesteEmissorDecorator {
                 (new EmissorDecoratorComCompressao(new EmissorBasico()));
         emissorCriptCompr.envia(mensagem);
     }
+
+   /* Pergunta Teorica: Você conseguiu observar alguma vantagem nessa abordagem. Comente!
+
+    Tem vantagem nessa abordagem, pois o padrão Decorator é útil em situações onde
+    você precisa adicionar funcionalidade a um objeto de maneira flexível e modular,
+    sem afetar outros objetos ou modificar o código existente. Ele ajuda a melhorar
+    a extensibilidade, a reutilização de código e a separação de preocupações na aplicação.*/
 }
 
