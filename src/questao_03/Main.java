@@ -4,6 +4,7 @@ import questao_03.model.Processo;
 
 public class Main {
     public static void main(String[] args) {
+        //Padrão State
         Processo processo = new Processo();
         processo.avalia();
 

@@ -9,7 +9,7 @@ import questao_04.model.Sanduiche;
 public class Main {
     public static void main(String[] args) {
 
-        // padrão de projeto Factory Method
+        // Padrão Factory Method
         // implementação das variacoes de sanduiches (no caso 3 tipos)
         SanduicheFactory lanchoneteCG = new LanchoneteCG();
         SanduicheFactory lanchoneteJP = new LanchoneteJP();
