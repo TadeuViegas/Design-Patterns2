@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Padrão Factory Method
-        // implementação das variacoes de sanduiches (no caso 3 tipos)
+        // implementação das variacões de sanduiches (no caso 3 tipos)
         SanduicheFactory lanchoneteCG = new LanchoneteCG();
         SanduicheFactory lanchoneteJP = new LanchoneteJP();
         SanduicheFactory lanchoneteRT = new LanchoneteRT();

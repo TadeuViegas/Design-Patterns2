@@ -3,7 +3,7 @@ package questao_02;
 public class Main {
     public static void main(String[] args) {
 
-        //Padrão de projeto Step Builder e fluent interface.
+        //Padrão Step Builder e fluent interface
         Livro livro = new Livro.LivroBuilder("Dom Casmurro")
                 .publicadoEm(1899)
                 .dosAutores("Machado de Assis, Tadeu Viegas")

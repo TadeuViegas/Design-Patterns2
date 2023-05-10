@@ -9,7 +9,7 @@ import questao_01.model.*;
 
 public class Client {
     public static void main(String[] args) {
-        //Padrões Builder e Step Builder
+        //Padrõe Builder e Step Builder
         Diretor diretor = new Diretor();
 
         Pessoa pessoa = new Pessoa(
