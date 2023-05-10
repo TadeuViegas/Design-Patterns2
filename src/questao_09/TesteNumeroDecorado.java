@@ -44,6 +44,6 @@ public class TesteNumeroDecorado {
         numeroUm.imprimir();
         System.out.println();
 
-        //pode fazer diversas combinações
+        //pode fazer diversas combinações com esses ou outros simbolos.
     }
 }
