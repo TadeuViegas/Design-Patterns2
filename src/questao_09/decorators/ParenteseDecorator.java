@@ -9,6 +9,6 @@ public class ParenteseDecorator extends NumeroDecorator {
     public void imprimir() {
         System.out.print("(");
         super.imprimir();
-        System.out.print(")" + "\n");
+        System.out.print(")");
     }
 }
