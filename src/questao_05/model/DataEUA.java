@@ -1,4 +1,4 @@
-package questao_05;
+package questao_05.model;
 
 public class DataEUA extends Data{
     public DataEUA(int mes, int dia, int ano) {

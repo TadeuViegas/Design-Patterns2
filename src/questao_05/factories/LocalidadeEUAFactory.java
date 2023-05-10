@@ -1,4 +1,9 @@
-package questao_05;
+package questao_05.factories;
+
+import questao_05.model.Data;
+import questao_05.model.DataEUA;
+import questao_05.model.Moeda;
+import questao_05.model.MoedaEUA;
 
 public class LocalidadeEUAFactory extends LocalidadeAbstractFactory{
     @Override

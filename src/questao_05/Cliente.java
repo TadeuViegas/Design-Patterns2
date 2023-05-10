@@ -1,5 +1,11 @@
 package questao_05;
 
+import questao_05.factories.LocalidadeAbstractFactory;
+import questao_05.factories.LocalidadeBrasilFactory;
+import questao_05.factories.LocalidadeEUAFactory;
+import questao_05.model.Data;
+import questao_05.model.Moeda;
+
 public class Cliente {
     public static void main(String[] args) {
         //Padrão Abstract Factory

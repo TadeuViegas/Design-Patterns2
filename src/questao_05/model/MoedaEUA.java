@@ -1,4 +1,4 @@
-package questao_05;
+package questao_05.model;
 
 import java.text.NumberFormat;
 import java.util.Locale;

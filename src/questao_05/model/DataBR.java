@@ -1,4 +1,4 @@
-package questao_05;
+package questao_05.model;
 
 public class DataBR extends Data {
     public DataBR(int dia, int mes, int ano) {

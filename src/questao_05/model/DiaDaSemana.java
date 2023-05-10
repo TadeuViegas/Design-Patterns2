@@ -1,4 +1,4 @@
-package questao_05;
+package questao_05.model;
 
 public enum DiaDaSemana {
     DOMINGO,
